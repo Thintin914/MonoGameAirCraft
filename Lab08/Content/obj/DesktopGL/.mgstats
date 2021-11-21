@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/base.fbx","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/base.xnb","ModelProcessor","ModelContent",27008,5242,0.3090617
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/Checker.bmp","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/Checker_0.xnb","TextureProcessor","Texture2DContent",49206,11049,0.014489
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/fan.fbx","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/fan.xnb","ModelProcessor","ModelContent",34624,15088,0.0228097
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/fbx/windmill.bmp","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/fbx/windmill_0.xnb","TextureProcessor","Texture2DContent",49206,11049,0.1814275
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/Ground.x","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/Ground.xnb","ModelProcessor","ModelContent",1246,757,0.0177671
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/Helicopter.fbx","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/Helicopter.xnb","ModelProcessor","ModelContent",53584,24149,0.1748528
+"C:/Users/ttca9/source/repos/Lab08/Lab08/Content/HelicopterTexture.png","C:/Users/ttca9/source/repos/Lab08/Lab08/Content/bin/DesktopGL/HelicopterTexture_0.xnb","TextureProcessor","Texture2DContent",2544,174897,0.15342

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ttca9/source/repos/Lab08/Lab08/Content/base.fbx</File>
+    <File>C:/Users/ttca9/source/repos/Lab08/Lab08/Content/fan.fbx</File>
+    <File>C:/Users/ttca9/source/repos/Lab08/Lab08/Content/Ground.x</File>
+    <File>C:/Users/ttca9/source/repos/Lab08/Lab08/Content/Helicopter.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
